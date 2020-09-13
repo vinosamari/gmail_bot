@@ -3,7 +3,7 @@ import time
 
 #Instantiate the selenium chromedriver
 driver = webdriver.Chrome(
-    "/Users/FEM_I/Documents/PYTHON DOCS/BOTS/gmail_creator_bot/chromedriver"
+    "/absolute/path/to/chromedriver"
 )
 
 #set url variable
