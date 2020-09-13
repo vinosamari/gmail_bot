@@ -1,0 +1,3 @@
+* download selenium,chromedriver,firefox driver
+* find out the pages and elements to interact with
+* get all their ids and query 'config.py' to fill in the send_keys details
