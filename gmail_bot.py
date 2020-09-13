@@ -28,5 +28,5 @@ def create_account(url):
 
 
 if __name__ == "__main__":
-    create_account(url)
+    create_account(gmail_url)
     
